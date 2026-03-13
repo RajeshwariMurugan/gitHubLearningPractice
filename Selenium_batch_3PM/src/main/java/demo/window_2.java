@@ -67,6 +67,8 @@ public class WindowHandling {
         String windowHandle = driver.getWindowHandle();
         driver.switchTo().window(list.get(0));
          driver.findElement(By.linkText("Blog")).click();
+
+		driver.quit();
        
          
          
