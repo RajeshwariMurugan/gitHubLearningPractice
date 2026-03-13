@@ -1,1 +1,1 @@
-fruit="APPLE"
+fruit="APPLEs"
